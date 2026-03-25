@@ -1,5 +1,3 @@
-## This script is based on the https://github.com/TaoRuijie/ECAPA-TDNN/blob/main/model.py
-## I made some changes to the original code for training a binary classifier.
 
 from typing import Optional
 import math
